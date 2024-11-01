@@ -81,7 +81,7 @@
 }, {
     "region": "america",
     "code": "ag",
-    "country": "Antigua & Barbuda",
+    "country": "Antigua Barbuda",
     "now": 2.044,
     "gdp-22": 1.796,
     "gdp-22-23": 0.248,
@@ -2705,7 +2705,7 @@
 }, {
     "region": "africa",
     "code": "st",
-    "country": "sao Tome & Príncipe",
+    "country": "saoTomePríncipe",
     "now": 0.684,
     "gdp-22": 0.556,
     "gdp-22-23": 0.128,
