@@ -1,0 +1,89 @@
+[ {
+    "code": "us",
+    "country": "USA",
+    "city": "New York",
+    "cityPop": 18937269,
+    "cityPop23": 18937269,
+    "cityPop23_24": 96749,
+    "code_counter": "a1"
+},{
+    "code": "us",
+    "country": "USA",
+    "city": "Los Angeles",
+    "cityPop": 12534357,
+    "cityPop23":12534357 ,
+    "cityPop23_24":63884 ,
+    "code_counter": "a2"
+},{
+    "code": "us",
+    "country": "USA",
+    "city": "Chicago",
+    "cityPop": 8936783,
+    "cityPop23": 8936783,
+    "cityPop23_24": 47443,
+    "code_counter": "a3"
+},{
+    "code": "us",
+    "country": "USA",
+    "city": "Houston",
+    "cityPop": 6706994,
+    "cityPop23": 6706994,
+    "cityPop23_24": 95332,
+    "code_counter": "a4"
+},{
+    "code": "us",
+    "country": "USA",
+    "city": "Dallas",
+    "cityPop": 6574018,
+    "cityPop23":6574018 ,
+    "cityPop23_24": 81293,
+    "code_counter": "a5"
+},{
+    "code": "us",
+    "country": "USA",
+    "city": "Miami",
+    "cityPop":6264792 ,
+    "cityPop23": 6264792,
+    "cityPop23_24":52457 ,
+    "code_counter": "a6"
+},{
+    "code": "us",
+    "country": "USA",
+    "city": "Atlanta",
+    "cityPop": 6106341,
+    "cityPop23": 6106341,
+    "cityPop23_24": 86166,
+    "code_counter": "a7"
+},{
+    "code": "us",
+    "country": "USA",
+    "city": "Philadelphia",
+    "cityPop": 5785338,
+    "cityPop23": 5785338,
+    "cityPop23_24": 35279,
+    "code_counter": "a8"
+},{
+    "code": "us",
+    "country": "USA",
+    "city": "Washington, D.C.",
+    "cityPop": 5490080,
+    "cityPop23": 5490080,
+    "cityPop23_24": 55106,
+    "code_counter": "a9"
+},{
+    "code": "us",
+    "country": "USA",
+    "city": "Phoenix",
+    "cityPop": 4716721,
+    "cityPop23": 4716721,
+    "cityPop23_24": 60299,
+    "code_counter": "a10"
+},{
+    "code": "us",
+    "country": "USA",
+    "city": "Boston",
+    "cityPop": 4344081,
+    "cityPop23": 4344081,
+    "cityPop23_24":23177 ,
+    "code_counter": "a11"
+}]

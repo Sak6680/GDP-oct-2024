@@ -1,0 +1,81 @@
+[{
+    "code": "vn",
+    "country": "Vietnam",
+    "city": "Ho Chi Minh City",
+    "cityPop": 9567656,
+    "cityPop23": 9320866,
+    "cityPop23_24": 246790,
+    "code_counter": "a788"
+}, {
+    "code": "vn",
+    "country": "Vietnam",
+    "city": "Hanoi",
+    "cityPop": 5431801,
+    "cityPop23": 5253385,
+    "cityPop23_24": 178416,
+    "code_counter": "a789"
+}, {
+    "code": "vn",
+    "country": "Vietnam",
+    "city": "Can Tho",
+    "cityPop": 1938915,
+    "cityPop23": 1865172,
+    "cityPop23_24": 73743,
+    "code_counter": "a790"
+}, {
+    "code": "vn",
+    "country": "Vietnam",
+    "city": "Hai Phong",
+    "cityPop": 1463650,
+    "cityPop23": 1422974,
+    "cityPop23_24": 40676,
+    "code_counter": "a791"
+}, {
+    "code": "vn",
+    "country": "Vietnam",
+    "city": "Da Nang",
+    "cityPop": 1253228,
+    "cityPop23": 1220634,
+    "cityPop23_24": 32594,
+    "code_counter": "a792"
+}, {
+    "code": "vn",
+    "country": "Vietnam",
+    "city": "Bien Hoa",
+    "cityPop": 1142997,
+    "cityPop23": 1110824,
+    "cityPop23_24": 32173,
+    "code_counter": "a793"
+}, {
+    "code": "vn",
+    "country": "Vietnam",
+    "city": "Thuan An",
+    "cityPop": 529754.4,
+    "cityPop23": 529754.4,
+    "cityPop23_24": 58861.6,
+    "code_counter": "a794"
+}, {
+    "code": "vn",
+    "country": "Vietnam",
+    "city": "Di An",
+    "cityPop":427212.9 ,
+    "cityPop23": 427212.9,
+    "cityPop23_24": 47468.1,
+    "code_counter": "a795"
+}, {
+    "code": "vn",
+    "country": "Vietnam",
+    "city": "Hue",
+    "cityPop": 316310.4,
+    "cityPop23": 316310.4,
+    "cityPop23_24": 35145.6,
+    "code_counter": "a796"
+}, {
+    "code": "vn",
+    "country": "Vietnam",
+    "city": "Vung Tau",
+    "cityPop": 307396.8,
+    "cityPop23": 307396.8,
+    "cityPop23_24": 34155.2,
+    "code_counter": "a797"
+}]

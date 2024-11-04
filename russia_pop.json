@@ -1,0 +1,145 @@
+[ {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Moscow",
+    "cityPop": 12712305,
+    "cityPop23": 12680389,
+    "cityPop23_24": 31916,
+    "code_counter": "a642"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Saint Petersburg",
+    "cityPop": 5581707,
+    "cityPop23": 5561294,
+    "cityPop23_24": 20413,
+    "code_counter": "a643"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Novosibirsk",
+    "cityPop": 1701510,
+    "cityPop23": 1694765,
+    "cityPop23_24": 6745,
+    "code_counter": "a644"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Yekaterinburg",
+    "cityPop": 1532970,
+    "cityPop23": 1527728,
+    "cityPop23_24": 5242,
+    "code_counter": "a645"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Kazan",
+    "cityPop": 1296232,
+    "cityPop23": 1291884,
+    "cityPop23_24": 4348,
+    "code_counter": "a646"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Nizhniy Novgorod",
+    "cityPop": 1250302,
+    "cityPop23": 1251332,
+    "cityPop23_24": -1030,
+    "code_counter": "a647"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Chelyabinsk",
+    "cityPop": 1243883,
+    "cityPop23": 1240926,
+    "cityPop23_24": 2957,
+    "code_counter": "a648"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Omsk",
+    "cityPop": 1180677,
+    "cityPop23": 1180745,
+    "cityPop23_24": -68,
+    "code_counter": "a649"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Krasnoyarsk",
+    "cityPop": 1173095,
+    "cityPop23": 1166792,
+    "cityPop23_24": 6303,
+    "code_counter": "a650"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Samara",
+    "cityPop": 1154451,
+    "cityPop23": 1155732,
+    "cityPop23_24": -1281,
+    "code_counter": "a651"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Ufa",
+    "cityPop": 1146786,
+    "cityPop23": 1144799,
+    "cityPop23_24": 1987,
+    "code_counter": "a652"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Rostov-on-Don",
+    "cityPop": 1139641,
+    "cityPop23": 1138854,
+    "cityPop23_24": 787,
+    "code_counter": "a653"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Perm",
+    "cityPop": 1084120,
+    "cityPop23": 1081768,
+    "cityPop23_24": 2352,
+    "code_counter": "a654"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Voronezh",
+    "cityPop": 1083724,
+    "cityPop23": 1080808,
+    "cityPop23_24": 2916,
+    "code_counter": "a655"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Krasnodar",
+    "cityPop": 1010552,
+    "cityPop23": 1001155,
+    "cityPop23_24": 9397,
+    "code_counter": "a656"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Volgograd",
+    "cityPop": 993352,
+    "cityPop23": 995078,
+    "cityPop23_24": -1726,
+    "code_counter": "a657"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Tyumen",
+    "cityPop": 916862,
+    "cityPop23": 903815,
+    "cityPop23_24": 13047,
+    "code_counter": "a658"
+}, {
+    "code": "ru",
+    "country": "Russia",
+    "city": "Saratov",
+    "cityPop": 837687,
+    "cityPop23": 838377,
+    "cityPop23_24": -690,
+    "code_counter": "a659"
+}]

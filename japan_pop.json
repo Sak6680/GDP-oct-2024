@@ -1,0 +1,81 @@
+[{
+    "code": "jp",
+    "country": "Japan",
+    "city": "Tokyo",
+    "cityPop": 37115035,
+    "cityPop23": 37194105,
+    "cityPop23_24": -79070,
+    "code_counter": "a502"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Osaka",
+    "cityPop": 18967459,
+    "cityPop23": 19013434,
+    "cityPop23_24": -45975,
+    "code_counter": "a503"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Nagoya",
+    "cityPop": 9556879,
+    "cityPop23": 9569328,
+    "cityPop23_24": -12449,
+    "code_counter": "a504"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Fukuoka",
+    "cityPop": 5478076,
+    "cityPop23": 5490271,
+    "cityPop23_24": -12195,
+    "code_counter": "a505"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Shizuoka",
+    "cityPop": 2935527,
+    "cityPop23": 2937359,
+    "cityPop23_24": -1832,
+    "code_counter": "a506"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Sapporo",
+    "cityPop": 2660947,
+    "cityPop23": 2666112,
+    "cityPop23_24": -5165,
+    "code_counter": "a507"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Sendai",
+    "cityPop": 2341433,
+    "cityPop23": 2342302,
+    "cityPop23_24": -869,
+    "code_counter": "a508"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Hiroshima",
+    "cityPop": 2062884,
+    "cityPop23": 2067591,
+    "cityPop23_24": -4707,
+    "code_counter": "a509"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Niigata",
+    "cityPop": 795916,
+    "cityPop23": 797865,
+    "cityPop23_24": -1949,
+    "code_counter": "a510"
+}, {
+    "code": "jp",
+    "country": "Japan",
+    "city": "Kumamoto",
+    "cityPop": 738415,
+    "cityPop23": 738415,
+    "cityPop23_24": -1636,
+    "code_counter": "a511"
+}]

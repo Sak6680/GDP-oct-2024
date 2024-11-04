@@ -1,0 +1,89 @@
+[{
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "cityPop": 23935652,
+    "cityPop23": 23209616,
+    "cityPop23_24": 726036,
+    "code_counter": "a24"
+}, {
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Chittagong",
+    "cityPop": 5513609,
+    "cityPop23": 5379660,
+    "cityPop23_24": 133949,
+    "code_counter": "a25"
+}, {
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Sylhet",
+    "cityPop": 999374,
+    "cityPop23": 964291,
+    "cityPop23_24": 35083,
+    "code_counter": "a26"
+}, {
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Rajshahi",
+    "cityPop": 983707,
+    "cityPop23": 961991,
+    "cityPop23_24": 21716,
+    "code_counter": "a27"
+}, {
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Khulna",
+    "cityPop": 965483,
+    "cityPop23": 955104,
+    "cityPop23_24": 10379,
+    "code_counter": "a28"
+}, {
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Bogra",
+    "cityPop": 944877,
+    "cityPop23": 905814,
+    "cityPop23_24": 39063,
+    "code_counter": "a29"
+}, {
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Comilla",
+    "cityPop": 650448,
+    "cityPop23": 650448,
+    "cityPop23_24": 20327,
+    "code_counter": "a30"
+}, {
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Rupganj",
+    "cityPop": 598367,
+    "cityPop23": 598367,
+    "cityPop23_24": 33583,
+    "code_counter": "a31"
+}, {
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Barisal",
+    "cityPop": 532690,
+    "cityPop23": 532690,
+    "cityPop23_24": 16341,
+    "code_counter": "a32"
+}, {
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Mymensingh",
+    "cityPop": 486730,
+    "cityPop23": 486730,
+    "cityPop23_24": 10832,
+    "code_counter": "a33"
+}, {
+    "code": "bd",
+    "country": "Bangladesh",
+    "city": "Rangpur",
+    "cityPop": 435065,
+    "cityPop23": 435065,
+    "cityPop23_24": 10612,
+    "code_counter": "a34"
+}]
