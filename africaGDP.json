@@ -389,21 +389,6 @@
     "gdpPPP-pc-22": 6387.248,
     "gdpPPP-pc-22-23": 385.036
 }, {
-    "code": "xk",
-    "country": "Kosovo",
-    "now": 10.44,
-    "gdp-22": 9.708,
-    "gdp-22-23": 0.732,
-    "now-pc": 5922.406,
-    "gdp-pc-22": 5510.894,
-    "gdp-pc-22-23": 411.512,
-    "nowPPP": 27.966,
-    "gdpPPP-22": 26.209,
-    "gdpPPP-22-23": 1.757,
-    "nowPPP-pc": 15864.08,
-    "gdpPPP-pc-22": 14876.262,
-    "gdpPPP-pc-22-23": 987.818
-}, {
     "code": "ls",
     "country": "Lesotho",
     "now": 2.211,
